@@ -197,7 +197,6 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225656/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225660/2/index.m3u8
 #EXTINF:-1,tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV军旅剧场.png" group-title="NewTV",军旅剧场
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225669/2/index.m3u8
-
 #EXTINF:-1,tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://epg.112114.xyz/logo/峨眉电影.png" group-title="影视频道",峨眉电影
 http://r.jdshipin.com/XIjta
 #EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="影视频道",黑莓电影
@@ -223,6 +222,10 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="影视频道",CHC高清电影
 http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1067/a7/a4ef768d73ace55fbc7adce0f4e329_180_135.jpg?1517472689" group-title="虎牙原创", 电影最TOP
+http://live.aptvapp.com/live/huya/11774959?platform=h5&line=first&quality=10000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1050/42/28f36f4d0767fb6efc42c1c1940e1c_180_135.jpg?1561358214" group-title="虎牙原创", 阿斗归来了
+http://live.aptvapp.com/live/huya/13303478?platform=h5&line=first&quality=10000
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="虎牙一起看", 周星星
 http://live.aptvapp.com/live/huya/11342412?platform=h5&line=first&quality=10000
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1053/1d/d9fb1fe2130e3f7d5e80379b24ebca_180_135.jpg?1509501381" group-title="虎牙原创", 陈翔六点半
@@ -231,8 +234,6 @@ http://live.aptvapp.com/live/huya/11274154?platform=h5&line=first&quality=10000
 http://live.aptvapp.com/live/huya/27858229?platform=h5&line=first&quality=10000
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1043/81/2dc2f632945c72c491ec7f951ab70a_180_135.jpg?1646824974" group-title="虎牙原创", DD-娜娜
 http://live.aptvapp.com/live/huya/26590882?platform=h5&line=first&quality=10000
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1050/42/28f36f4d0767fb6efc42c1c1940e1c_180_135.jpg?1561358214" group-title="虎牙原创", 阿斗归来了
-http://live.aptvapp.com/live/huya/13303478?platform=h5&line=first&quality=10000
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1056/e7/c61ec3ae80bbc93817186f3a41d47c_180_135.jpg?1449028717" group-title="虎牙一起看", 鯎爺
 http://live.aptvapp.com/live/huya/11352944?platform=h5&line=first&quality=10000
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1027/86/3816fff1eef0e4c346fc840b627740_180_135.jpg" group-title="虎牙一起看", SMG最强大脑
@@ -291,8 +292,6 @@ http://live.aptvapp.com/live/huya/27927451?platform=h5&line=first&quality=10000
 http://live.aptvapp.com/live/huya/11342433?platform=h5&line=first&quality=10000
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1083/32/304976fa3bbaae8c9eef96dd12be84_180_135.jpg" group-title="虎牙一起看", 呆萌小岳岳
 http://live.aptvapp.com/live/huya/11342398?platform=h5&line=first&quality=10000
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1087/94/d718f164cbdab50db6d8c07d594a57_180_135.jpg?1449487171" group-title="虎牙一起看", 柯冉冉
-http://live.aptvapp.com/live/huya/11352874?platform=h5&line=first&quality=10000
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1054/dc/220aa819b2f3237d62bb66a75a0a43_180_135.jpg?1531813967" group-title="虎牙原创", 扁豆看电影
 http://live.aptvapp.com/live/huya/16028551?platform=h5&line=first&quality=10000
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1040/61/9e8348d60b86f6391add9746a0fe0e_180_135.jpg" group-title="虎牙一起看", 种瓜得弟弟
@@ -345,8 +344,6 @@ http://live.aptvapp.com/live/huya/27773247?platform=h5&line=first&quality=10000
 http://live.aptvapp.com/live/huya/11602081?platform=h5&line=first&quality=10000
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1071/e7/d4f17fe8278aa00c302295e86756bf_180_135.jpg" group-title="虎牙一起看", 昵称违规-QQFbPxwM1A
 http://live.aptvapp.com/live/huya/11352958?platform=h5&line=first&quality=10000
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1067/a7/a4ef768d73ace55fbc7adce0f4e329_180_135.jpg?1517472689" group-title="虎牙原创", 电影最TOP
-http://live.aptvapp.com/live/huya/11774959?platform=h5&line=first&quality=10000
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1061/4e/ae211bcda9e2928942fbcea9035377_180_135.jpg?1586044444" group-title="虎牙原创", 狗哥吃火锅
 http://live.aptvapp.com/live/huya/17269326?platform=h5&line=first&quality=10000
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1012/f5/b6e246fc050f005a7eb50db0ec37b5_180_135.jpg?1448361051" group-title="虎牙一起看", 會唱歌的小野貓
