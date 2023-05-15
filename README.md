@@ -20,15 +20,6 @@ Tvbox直播地址：
 https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/live.txt
 
 
-以下是别人公众号的直播源。每到凌晨，所有台都会变成他公众号的广告
-
-网页在线直播列表：http://43.224.33.165/iptv222/
-
-动态txt直播列表：http://43.224.33.165/iptv222/live.txt
-
-动态m3u直播列表：http://43.224.33.165/iptv222/live.m3u
-
-
 Tivimate直播地址：
 
 https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/live.m3u
