@@ -11,21 +11,25 @@ TVBS新闻HD,rtmp://9sv2.mine.nu/sat/tv551
 中视新闻HD,rtmp://9sv2.mine.nu/sat/tv091
 华视新闻HD,rtmp://9sv2.mine.nu/sat/tv111
 东风37,http://123.51.230.108:18560/.m3u8
+MTV,mitv://generationnexxxt.com:19806/2db96125eaff4f459c2c18dccc2762fa
 国家地理频道,mitv://generationnexxxt.com:19806/f2a7763353c242b788b34f33aa478527
 探索频道,mitv://generationnexxxt.com:19806/7f6d6983b5cd47339d993860bc8f00e9
+ABC Australia,mitv://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a
+Al Jazeera English,mitv://generationnexxxt.com:19806/03bc1638cc9f4efe9dde7bf6a456bb5b
 BBC World News,mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1
 Bloomberg TV,mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608
 CNN,mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 CNBC,mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd
-Al Jazeera English,mitv://generationnexxxt.com:19806/03bc1638cc9f4efe9dde7bf6a456bb5b
+Sky News,mitv://generationnexxxt.com:19806/ddc4e102601e4fcfa5432722538cf052
 
-
+体育频道,#genre#
 ELEVEN体育1台,mitv://generationnexxxt.com:19806/61a3473768ec4860bf9c5cc9911f71d6
 ELEVEN体育1台,rtmp://9sv2.mine.nu/sat/tv731
 ELEVEN体育2台,mitv://generationnexxxt.com:19806/e3aeaea58e574957a3ce60d7e2d1081d
 ELEVEN体育2台,rtmp://9sv2.mine.nu/sat/tv741
 爱尔达体育1台,mitv://generationnexxxt.com:19806/694aae01164f482eae2be66c1255171c
 爱尔达体育3台,mitv://generationnexxxt.com:19806/bed0a4b629d149bc90aee0522c633b43
+WWE,mitv://generationnexxxt.com:19806/157d295b0933470ab2c880d58a7f14ce
 纬来体育,rtmp://9sv2.mine.nu/sat/tv721
 纬来育乐,rtmp://9sv2.mine.nu/sat/tv701
 纬来日本,rtmp://9sv2.mine.nu/sat/tv771
