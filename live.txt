@@ -14,6 +14,7 @@ TVBS新闻,rtmp://9sv2.mine.nu/sat/tv551
 MTV,mitv://generationnexxxt.com:19806/2db96125eaff4f459c2c18dccc2762fa
 国家地理频道,mitv://generationnexxxt.com:19806/f2a7763353c242b788b34f33aa478527
 探索频道,mitv://generationnexxxt.com:19806/7f6d6983b5cd47339d993860bc8f00e9
+动物星球,mitv://generationnexxxt.com:19806/14fd9d119d4b4f0391652fa16930fbe2
 ABC Australia,mitv://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a
 Al Jazeera English,mitv://generationnexxxt.com:19806/03bc1638cc9f4efe9dde7bf6a456bb5b
 BBC World News,mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1
@@ -36,7 +37,7 @@ WWE,mitv://generationnexxxt.com:19806/157d295b0933470ab2c880d58a7f14ce
 东森超视,rtmp://9sv2.mine.nu/sat/tv331
 MoMo综合,rtmp://9sv2.mine.nu/sat/tv761
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-动物星球,mitv://generationnexxxt.com:19806/14fd9d119d4b4f0391652fa16930fbe2
+
 
 
 影视专区,#genre#
