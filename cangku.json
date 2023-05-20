@@ -1,4 +1,4 @@
-//=============单仓更新日期 2023/05/06=============
+//=============单仓更新日期 2023/05/20=============
 
 //本单仓库在线链接：
 //https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/cangku.json
@@ -8,6 +8,7 @@
 
 {"urls":
 [
+{"url":"http://饭太硬.ga/tv/","name": "饭太硬线"},
 {"url":"https://codeberg.org/jgfx/dym/raw/branch/master/master0511.json","name": "自用精选"},
 {"url":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyfx/main/yyfx.json","name": "分享者线"},
 {"url":"https://jihulab.com/xiaohutx/box/-/raw/main/0.json","name": "小胡路线"},
@@ -22,15 +23,14 @@
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json","name": "一木自用"},
 {"url":"https://weixine.net/ysc.json","name": "运输车线"},
 {"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "南风线路"},
-//{"url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json","name": "蜂蜜线路"},
+//{"url":"https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json","name": "FongMi线"},
 {"url":"https://ghproxy.com/raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json","name": "荷城茶秀"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name": "高天流云"},
 {"url":"http://52bsj.vip:98/wuai","name": "吾爱线路1"},
 {"url":"http://52bsj.vip:98/0805","name": "吾爱线路2"},
 {"url":"https://agit.ai/hu/hcr/raw/branch/master/haoh.txt","name": "四大网盘"},
 {"url":"http://我不是.肥猫.love:63/接口禁止贩卖","name": "肥猫线路"},
-{"url":"http://tvbo.run.goorm.site/tangs.json","name": "唐三线路"},
-{"url":"http://饭太硬.ga/tv/","name": "饭太硬线"},
+{"url":"https://gh.t4tv.hz.cz/newtang.bmp","name": "唐三线路"},
 {"url":"https://tvbox.cainisi.cf","name": "菜妮丝线" },
 //{"url":"http://home.jundie.top:81/top98.json","name": "俊佬线路"}, 
 {"url":"https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json","name": "香雅情线"}, 
@@ -39,7 +39,7 @@
 {"url":"https://dybz.store/dybz","name": "大眼线路"},
 {"url":"http://www.dmtv.ml/mao/single.json","name": "乱世线路"},
 {"url":"https://agit.ai/W-TV/xiaomian/raw/branch/master/xmtv.json","name": "免软线路"},
-//{"url":"https://agit.ai/relax/adcc/raw/branch/master/tvbox.json","name": "巧计线路"},
+{"url":"http://pandown.pro/tvbox/tvbox.json","name": "巧计线路"},
 //{"url":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/yydf/main/json/zhuiju.json","name": "JS影视剧"},
 //{"url":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/yydf/main/py/py.json","name": "PY影视剧"},
 //{"url":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/yydf/main/json/dongman.json","name": "动漫专线"},
