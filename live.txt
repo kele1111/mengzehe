@@ -18,14 +18,14 @@ CCTV15(農),mitv://generationnexxxt.com:19806/3777f550472d4b91a5bbf76a74580cec
 CCTV16(農),mitv://generationnexxxt.com:19806/c2001475104d47b9815a8c3e5e73a761
 
 卫　视,#genre#
+浙江卫视(農),mitv://generationnexxxt.com:19806/1c7b022796c6442db9dacb809dd1985e
+东方卫视(農),mitv://generationnexxxt.com:19806/ea901b87a24d4699bc2744aba44fd568
+江苏卫视(農),mitv://generationnexxxt.com:19806/5d24dd76478f4a5c9ba4bf58121b7839
+辽宁卫视(農),mitv://generationnexxxt.com:19806/16cc7a4d3c5b4f16a6ae26097645f201
 北京卫视(農),mitv://generationnexxxt.com:19806/06648fa4716e4c0f858f936ec55a5b08
 天津卫视(農),mitv://generationnexxxt.com:19806/753b5a1ce87949e797618d7a05919c87
 河北卫视(農),mitv://generationnexxxt.com:19806/6bafcb082dd348218d7d85a4219c3cf2
 黑龙江卫视(農),mitv://generationnexxxt.com:19806/9c0d508f47ff4bdb8182d9f72931cdcc
-辽宁卫视(農),mitv://generationnexxxt.com:19806/16cc7a4d3c5b4f16a6ae26097645f201
-东方卫视(農),mitv://generationnexxxt.com:19806/ea901b87a24d4699bc2744aba44fd568
-江苏卫视(農),mitv://generationnexxxt.com:19806/5d24dd76478f4a5c9ba4bf58121b7839
-浙江卫视(農),mitv://generationnexxxt.com:19806/1c7b022796c6442db9dacb809dd1985e
 江西卫视(農),mitv://generationnexxxt.com:19806/73d8b834df834d348e21306f662f6fd8
 山东卫视(農),mitv://generationnexxxt.com:19806/4713b9f348af4602b007b04aa7f7371a
 东南卫视(農),mitv://generationnexxxt.com:19806/d29447aad8d34c8aaf7fad3247b8f768
@@ -39,13 +39,13 @@ CCTV16(農),mitv://generationnexxxt.com:19806/c2001475104d47b9815a8c3e5e73a761
 星空卫视(農),mitv://generationnexxxt.com:19806/ea86987738b4465482e6f2a122a6b3f8
 
 港　台,#genre#
-now新闻台(農),mitv://generationnexxxt.com:19806/d7d8ced83c694ee09eda089b554d9dc5
-NHK新闻资讯台(農),mitv://generationnexxxt.com:19806/2827343b83c648d08bf066785cf70ad0
-TVB星河(粤)(農),mitv://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707
-TVBS欢乐台(農),mitv://generationnexxxt.com:19806/645c744e0000479b6afb2f39254b3e96
+凤凰中文台(農),mitv://generationnexxxt.com:19806/645385720009117848161b4e340f749d
+凤凰资讯台(農),mitv://generationnexxxt.com:19806/0b7958cc2d1c4a6f9f9449e92ad92b9e
+凤凰香港台(農),mitv://generationnexxxt.com:19806/b70e94e7ac144bf585ad3bb140833c64
 TVBS新闻台(農),mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
-TVBS(農),mitv://generationnexxxt.com:19806/644d1a13000e2f842f02b17e6e9f6cae
+TVBS欢乐台(農),mitv://generationnexxxt.com:19806/645c744e0000479b6afb2f39254b3e96
 TVBS亚洲(農),mitv://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85
+TVBS(農),mitv://generationnexxxt.com:19806/644d1a13000e2f842f02b17e6e9f6cae
 三立台湾台(農),mitv://generationnexxxt.com:19806/644a3b5f0005cbe923ccc03b21bd7a36
 三立都会台(農),mitv://generationnexxxt.com:19806/f9f1b6bc8bd943f09b7a17bc481294da
 三立新闻台(農),mitv://generationnexxxt.com:19806/645500960008581e4ddf1fbf03fc57a9
@@ -54,19 +54,16 @@ TVBS亚洲(農),mitv://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f
 东森新闻台(農),mitv://generationnexxxt.com:19806/64677d68000bfdc49616bfd746a567a3
 东森财经新闻台(農),mitv://generationnexxxt.com:19806/644bc6970002cc0e29d4923028d9436e
 东森亚洲卫视(農),mitv://generationnexxxt.com:19806/4314e2707d7141b78dd0fde4fbf5eae1
-中视(農),mitv://generationnexxxt.com:19806/f1f4f77c21e2470e9c29111c9370bf08
 中天综合台(農),mitv://generationnexxxt.com:19806/6458c64d00033f105c9b7c1c35097dec
 中天娱乐台(農),mitv://generationnexxxt.com:19806/97163a966a4a49ac888dbd606b965cf4
 中天新闻台(農),mitv://generationnexxxt.com:19806/645a505500087efb629eacb405a54a42
 中视新闻台(農),mitv://generationnexxxt.com:19806/8817421e14dd462f8deede53ce057af1
+中视(農),mitv://generationnexxxt.com:19806/f1f4f77c21e2470e9c29111c9370bf08
 人间卫视(農),mitv://generationnexxxt.com:19806/bd9d0263e82a49d0b8312481c45df967
 八大第一台(農),mitv://generationnexxxt.com:19806/1217464bff6c46d180ff30cb4cff310f
 八大综合台(農),mitv://generationnexxxt.com:19806/7f8ed6b6d4234d93ac0b4b6b506ee360
 八大戏剧台(農),mitv://generationnexxxt.com:19806/844bfa9150ac49c09bbae657b7545df9
 公视(農),mitv://generationnexxxt.com:19806/882cb7ba11384ac2874452400d6d0020
-凤凰中文台(農),mitv://generationnexxxt.com:19806/645385720009117848161b4e340f749d
-凤凰资讯台(農),mitv://generationnexxxt.com:19806/0b7958cc2d1c4a6f9f9449e92ad92b9e
-凤凰香港台(農),mitv://generationnexxxt.com:19806/b70e94e7ac144bf585ad3bb140833c64
 华视(農),mitv://generationnexxxt.com:19806/4ce3296b98794b2ca8e1f040657e327b
 华视新闻(農),mitv://generationnexxxt.com:19806/ab85a40ff8754fe58c6aec3a9768925d
 原住民电视台(農),mitv://generationnexxxt.com:19806/9d6324a6b7b142f082270bb4c6cc4e6a
@@ -95,24 +92,23 @@ TVBS亚洲(農),mitv://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f
 Al Jazeera English(農),mitv://generationnexxxt.com:19806/03bc1638cc9f4efe9dde7bf6a456bb5b
 BBC World News(農),mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1
 Bloomberg TV(農),mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608
-BBC World News(農),mitv://generationnexxxt.com:19806/645a7af7000a546f634536013ab664df
 Business News Network(農),mitv://generationnexxxt.com:19806/645a790b000e9fc8633db53a27441f5d
 Boomerang(農),mitv://generationnexxxt.com:19806/317cf636b2d448d0867cc1f976064d8a
 CNN(農),mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
-CNBC(農),mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd
 CNN USA(農),mitv://generationnexxxt.com:19806/645a7af7000439b06345346b56b46fcf
+CNBC(農),mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd
 CBC News(農),mitv://generationnexxxt.com:19806/645a7af6000dcedb634532f4456543a4
 CBSN(農),mitv://generationnexxxt.com:19806/a90df52b92804807b6c08cdbbead4ce4
 CTV News(農),mitv://generationnexxxt.com:19806/645a7af60000d58b63452fa83b7e2bac
 CP24(農),mitv://generationnexxxt.com:19806/645a790b00087173633db3a45acb0a34
 ESPN(農),mitv://generationnexxxt.com:19806/eb2c51ee510841a9b7845b6d13309e9c
 Fox News(農),mitv://generationnexxxt.com:19806/645a7af80001541a6345379702241ea6
-Fox News(農),mitv://generationnexxxt.com:19806/bc919a2d3c4f4a7a9633ded99e69d801
 HITS(農),mitv://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204
 JKN 18(農),mitv://generationnexxxt.com:19806/0df418fddf7446a5869f69f1418415d6
 KOMO 4 TV(農),mitv://generationnexxxt.com:19806/645a79070003a120633da2bc7295540c
 MSNBC(農),mitv://generationnexxxt.com:19806/645a7af600072b0c6345313e244860b8
 NDTV(農),mitv://generationnexxxt.com:19806/7b86d682dfcf4b51949751ec1cc0757a
+NHK新闻资讯台(農),mitv://generationnexxxt.com:19806/2827343b83c648d08bf066785cf70ad0
 Sky News(農),mitv://generationnexxxt.com:19806/ddc4e102601e4fcfa5432722538cf052
 The Weather Network(農),mitv://generationnexxxt.com:19806/645a790b00024322633db20e6f60185f
 The Weather Channel(農),mitv://generationnexxxt.com:19806/645a790a000b00de633db05826c974b9
