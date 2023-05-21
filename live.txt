@@ -43,8 +43,8 @@ CCTV16,mitv://generationnexxxt.com:19806/c2001475104d47b9815a8c3e5e73a761
 凤凰资讯台,mitv://generationnexxxt.com:19806/0b7958cc2d1c4a6f9f9449e92ad92b9e
 凤凰香港台,mitv://generationnexxxt.com:19806/b70e94e7ac144bf585ad3bb140833c64
 TVBS新闻台,mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
+TVBS亚洲台,mitv://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85
 TVBS欢乐台,mitv://generationnexxxt.com:19806/645c744e0000479b6afb2f39254b3e96
-TVBS亚洲,mitv://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85
 TVBS,mitv://generationnexxxt.com:19806/644d1a13000e2f842f02b17e6e9f6cae
 三立台湾台,mitv://generationnexxxt.com:19806/644a3b5f0005cbe923ccc03b21bd7a36
 三立都会台,mitv://generationnexxxt.com:19806/f9f1b6bc8bd943f09b7a17bc481294da
