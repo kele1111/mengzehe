@@ -173,37 +173,8 @@ Ettoday,mitv://generationnexxxt.com:19806/87a1551a86004305b6cfd947fb0898ef
 ELTV,mitv://generationnexxxt.com:19806/264eb6cb34c5497a99312ce73883a073
 BBCLifestyle,mitv://generationnexxxt.com:19806/99d72fa5a5e94df7a3d961690ee09785
 
-少儿,#genre#
-达文西频道,mitv://generationnexxxt.com:19806/beaf5c1a3d7b44e1b4a99bcc20cd8ed7
-Nickelodeon,mitv://generationnexxxt.com:19806/f2783df879aa424b9402999698bcd55f
-NickJr.,mitv://generationnexxxt.com:19806/002b860a0a6b46c280d4eef8c2debee1
-MOMO亲子台,mitv://generationnexxxt.com:19806/644d1f0f0001f7782f1626c159ce4396
-iFun1,mitv://generationnexxxt.com:19806/5b0acde9dcbf46fdb9022aa9c0e7ccec
-Hands Up,mitv://generationnexxxt.com:19806/f9c41983d502432f87f550e6af471efe
-DREAMWORKS,mitv://generationnexxxt.com:19806/8b6a297545fb4063ace56e824af32a35
-CN卡通频道,mitv://generationnexxxt.com:19806/644d1cd900092e062f0d85a601dc3f82
-CCTV14,mitv://generationnexxxt.com:19806/1e4082a6c2b54c768bafe1dd2fb8ea21
-CBeebies,mitv://generationnexxxt.com:19806/cd8a6c94b8fe46cd97a508e0a93b6a71
-Cartoon Network,mitv://generationnexxxt.com:19806/41375bcbd5094f538f132d3ebb9b2ea6
-Boomerang,mitv://generationnexxxt.com:19806/317cf636b2d448d0867cc1f976064d8a
-Boomerang,mitv://generationnexxxt.com:19806/317cf636b2d448d0867cc1f976064d8a
-ickelodeon,mitv://generationnexxxt.com:19806/f2783df879aa424b9402999698bcd55f
-Astro小太阳,mitv://generationnexxxt.com:19806/783861d0aade442c87f4e0dafaf6eb2a
-Astro Ceria,mitv://generationnexxxt.com:19806/91018054446042e183ac5f3bdc296f7c
-Animax,mitv://generationnexxxt.com:19806/09993190594140d3a87996691fdea68c
-Dreamworks,P2p://generationnexxxt.com:19806/8b6a297545fb4063ace56e824af32a35
-Hands Up,P2p://generationnexxxt.com:19806/f9c41983d502432f87f550e6af471efe
-靖洋卡通台Nice Bingo,mitv://generationnexxxt.com:19806/9c0a957495a044c78942d4d7adb54662
-靖天卡通台,mitv://generationnexxxt.com:19806/31373da9de144c1fbe1f505bcaa978aa
-动漫秀场,mitv://generationnexxxt.com:19806/185e827581d64584b2ae400ee9195d45
-尼克儿童频道,mitv://generationnexxxt.com:19806/73d77b0470724ad4a8dadc3854881cda
 
-音乐,#genre#
-MTV,mitv://generationnexxxt.com:19806/2db96125eaff4f459c2c18dccc2762fa
-MTV Live,mitv://generationnexxxt.com:19806/644b68b5000c14aa2865d9c1567d521e
-MEZZOLIVEHD,mitv://generationnexxxt.com:19806/35c919f9094445e98749b1511bb4aaf4
-CLASSICA 古典乐,mitv://generationnexxxt.com:19806/bfcce4097e7b43c0affa24d6ec263175
-CMusic,mitv://generationnexxxt.com:19806/7e72c3e7a1584bc096789ccd40162bc4
+
 
 
 央　视,#genre#
@@ -334,6 +305,11 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/bc6c20458c4c422b9297dbfd25f12f
 国家地理高画质野生频道,mitv://generationnexxxt.com:19806/faccdb1e8d4a48c4a2eb75b6fb436c05
 国家地理频道,mitv://generationnexxxt.com:19806/f2a7763353c242b788b34f33aa478527
 探索频道,mitv://generationnexxxt.com:19806/7f6d6983b5cd47339d993860bc8f00e9
+MTV,mitv://generationnexxxt.com:19806/2db96125eaff4f459c2c18dccc2762fa
+MTV Live,mitv://generationnexxxt.com:19806/644b68b5000c14aa2865d9c1567d521e
+MEZZOLIVEHD,mitv://generationnexxxt.com:19806/35c919f9094445e98749b1511bb4aaf4
+CLASSICA 古典乐,mitv://generationnexxxt.com:19806/bfcce4097e7b43c0affa24d6ec263175
+CMusic,mitv://generationnexxxt.com:19806/7e72c3e7a1584bc096789ccd40162bc4
 
 
 体　育,#genre#
@@ -437,6 +413,31 @@ WARNER TV,mitv://generationnexxxt.com:19806/875d0108135e450485fe55ebca3e1a43
 靖天电影台,mitv://generationnexxxt.com:19806/030b9d54cd424c6ba0d5e8acf16f9769
 龙祥电影,mitv://generationnexxxt.com:19806/644b663d0002f2fe285c32b00e0f46ef
 龙华电影,mitv://generationnexxxt.com:19806/cede451738ef405fbb9fd50f010c6e69
+
+少  儿,#genre#
+达文西频道,mitv://generationnexxxt.com:19806/beaf5c1a3d7b44e1b4a99bcc20cd8ed7
+Nickelodeon,mitv://generationnexxxt.com:19806/f2783df879aa424b9402999698bcd55f
+NickJr.,mitv://generationnexxxt.com:19806/002b860a0a6b46c280d4eef8c2debee1
+MOMO亲子台,mitv://generationnexxxt.com:19806/644d1f0f0001f7782f1626c159ce4396
+iFun1,mitv://generationnexxxt.com:19806/5b0acde9dcbf46fdb9022aa9c0e7ccec
+Hands Up,mitv://generationnexxxt.com:19806/f9c41983d502432f87f550e6af471efe
+DREAMWORKS,mitv://generationnexxxt.com:19806/8b6a297545fb4063ace56e824af32a35
+CN卡通频道,mitv://generationnexxxt.com:19806/644d1cd900092e062f0d85a601dc3f82
+CCTV14,mitv://generationnexxxt.com:19806/1e4082a6c2b54c768bafe1dd2fb8ea21
+CBeebies,mitv://generationnexxxt.com:19806/cd8a6c94b8fe46cd97a508e0a93b6a71
+Cartoon Network,mitv://generationnexxxt.com:19806/41375bcbd5094f538f132d3ebb9b2ea6
+Boomerang,mitv://generationnexxxt.com:19806/317cf636b2d448d0867cc1f976064d8a
+Boomerang,mitv://generationnexxxt.com:19806/317cf636b2d448d0867cc1f976064d8a
+ickelodeon,mitv://generationnexxxt.com:19806/f2783df879aa424b9402999698bcd55f
+Astro小太阳,mitv://generationnexxxt.com:19806/783861d0aade442c87f4e0dafaf6eb2a
+Astro Ceria,mitv://generationnexxxt.com:19806/91018054446042e183ac5f3bdc296f7c
+Animax,mitv://generationnexxxt.com:19806/09993190594140d3a87996691fdea68c
+Dreamworks,P2p://generationnexxxt.com:19806/8b6a297545fb4063ace56e824af32a35
+Hands Up,P2p://generationnexxxt.com:19806/f9c41983d502432f87f550e6af471efe
+靖洋卡通台Nice Bingo,mitv://generationnexxxt.com:19806/9c0a957495a044c78942d4d7adb54662
+靖天卡通台,mitv://generationnexxxt.com:19806/31373da9de144c1fbe1f505bcaa978aa
+动漫秀场,mitv://generationnexxxt.com:19806/185e827581d64584b2ae400ee9195d45
+尼克儿童频道,mitv://generationnexxxt.com:19806/73d77b0470724ad4a8dadc3854881cda
 
 电　台,#genre#
 CGTN Radio,http://sk.cri.cn/am846.m3u8
