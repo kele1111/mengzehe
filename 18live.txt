@@ -1,6 +1,8 @@
 在线TV,#genre#
 彩虹e台,mitv://generationnexxxt.com:19806/3f5f22df9a324f759e43967b0d3ffe65
 彩虹电影台,mitv://generationnexxxt.com:19806/65b9f44984e749a8b14455a173779644
+彩虹电影,http://162.19.247.76:22222/live/caihong2/index.m3u8
+彩虹电视,http://162.19.247.76:22222/live/caihong1/index.m3u8
 LOOK TV,mitv://generationnexxxt.com:19806/c8aab8c8683c4f35aba0e745535afd41
 潘朵啦玩美台,mitv://generationnexxxt.com:19806/3f91635cf956419490d1905f7d5c6790
 惊艳成人电影台,mitv://generationnexxxt.com:19806/9eaea463d2f54b5d92fb34948ad0b72d
