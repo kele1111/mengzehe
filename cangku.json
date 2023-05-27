@@ -1,10 +1,7 @@
 //=============单仓更新日期 2023/05/20=============
-
 //本单仓库在线链接：
 //https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/cangku.json
-//https://github.com/mengzehe/TVBox/raw/main/cangku.json
-//https://cdn.staticaly.com/gh/mengzehe/tvbox/main/cangku.json
-//https://cdn.statically.io/gh/mengzehe/TVBox/main/cangku.json
+//https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/cangku.json
 
 {"urls":
 [
@@ -45,6 +42,7 @@
 {"url":"http://pandown.pro/tvbox/tvbox.json","name": "巧计线路"},
 {"url":"https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json","name": "胖虎线路"},
 {"url":"https://www.agit.ai/n/b/raw/branch/a/b/c.json","name": "ImABC"},
+{"url":"https://gitee.com/wdc558/TVBox/raw/master/Zhiyunyan.json","name": "纸云烟"},
 {"url":"https://agit.ai/376242575/py/raw/branch/py/1/py.txt","name": "央视回放"}
 
 ]
