@@ -22,10 +22,10 @@
 {"url":"https://weixine.net/ysc.json","name": "运输车线"},
 {"url":"http://我不是.肥猫.love:63/接口禁止贩卖","name": "肥猫线路"},
 {"url":"http://tvbo.run.goorm.site/tangs.json","name": "唐三线路"},
+{"url":"https://gh.t4tv.hz.cz/newtang.bmp","name": "新唐线路"},
 {"url":"https://tvbox.cainisi.cf","name": "菜妮丝线" },
 {"url":"http://52bsj.vip:98/wuai","name": "吾爱线路1"},
 {"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "南风线路"},
-  
 //{"url":"https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json","name": "PyramidStore"},
 //{"url":"https://ghproxy.net/https://raw.githubusercontent.com/lllyin/assets/master/a.png","name": "Lllyin路线"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json","name": "一木自用"},
@@ -42,13 +42,6 @@
 {"url":"http://www.dmtv.ml/mao/single.json","name": "乱世线路"},
 {"url":"https://agit.ai/W-TV/xiaomian/raw/branch/master/xmtv.json","name": "免软线路"},
 {"url":"http://pandown.pro/tvbox/tvbox.json","name": "巧计线路"},
-//{"url":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/yydf/main/json/zhuiju.json","name": "JS影视剧"},
-//{"url":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/yydf/main/py/py.json","name": "PY影视剧"},
-//{"url":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/yydf/main/json/dongman.json","name": "动漫专线"},
-//{"url":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/yydf/main/json/tsmv.json","name": "影音专线"},
-//{"url":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/yydf/main/json/ali.json","name": "阿里4K线"},
-//{"url":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/yydf/main/json/jiaoyu.json","name": "教育专线"},
-//{"url":"https://agit.ai/376242575/zzh/raw/branch/master/体育﹠直播.txt","name": "体育直播"},
 {"url":"https://agit.ai/376242575/py/raw/branch/py/1/py.txt","name": "央视回放"}
 
 ]
